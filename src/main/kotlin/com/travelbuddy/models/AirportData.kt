@@ -1,4 +1,4 @@
-package com.travelbuddy.flightdata.models
+package com.travelbuddy.models
 
 import lombok.Data
 

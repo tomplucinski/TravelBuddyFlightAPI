@@ -1,4 +1,4 @@
-package com.travelbuddy.flightdata
+package com.travelbuddy
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest

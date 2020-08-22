@@ -1,4 +1,4 @@
-package com.travelbuddy.flightdata
+package com.travelbuddy
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
